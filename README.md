@@ -8,6 +8,7 @@
 - [Miðvikudagur](./2021-11-24.md)
 - [Fimmtudagur](./2021-11-25.md)
 - [Föstudagur](./2021-11-26.md)
+- [Laugardagur](./2021-11-27.md)
 
 </details>
 
